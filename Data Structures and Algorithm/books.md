@@ -7,6 +7,7 @@ Parallel and High Performance Computing | https://www.manning.com/books/parallel
 Algorithms and Data Structures in Action | https://www.manning.com/books/algorithms-and-data-structures-in-action
 Algorithms and Data Structures for Massive Datasets | https://www.manning.com/books/algorithms-and-data-structures-for-massive-datasets
 Grokking Data Structures | (https://www.manning.com/books/grokking-data-structures)
+Fabulous Adventures in Data Structures and Algorithms | (https://www.manning.com/books/fabulous-adventures-in-data-structures-and-algorithms
 
 ### Algorithm Books
 Name | Link
